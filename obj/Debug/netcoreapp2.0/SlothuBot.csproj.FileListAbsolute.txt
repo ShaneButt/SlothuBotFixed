@@ -1,0 +1,8 @@
+C:\Users\Shane\source\repos\Slothu\SlothuBot\bin\Debug\netcoreapp2.0\SlothuBot.deps.json
+C:\Users\Shane\source\repos\Slothu\SlothuBot\bin\Debug\netcoreapp2.0\SlothuBot.runtimeconfig.json
+C:\Users\Shane\source\repos\Slothu\SlothuBot\bin\Debug\netcoreapp2.0\SlothuBot.runtimeconfig.dev.json
+C:\Users\Shane\source\repos\Slothu\SlothuBot\bin\Debug\netcoreapp2.0\SlothuBot.dll
+C:\Users\Shane\source\repos\Slothu\SlothuBot\obj\Debug\netcoreapp2.0\SlothuBot.csprojAssemblyReference.cache
+C:\Users\Shane\source\repos\Slothu\SlothuBot\obj\Debug\netcoreapp2.0\SlothuBot.csproj.CoreCompileInputs.cache
+C:\Users\Shane\source\repos\Slothu\SlothuBot\obj\Debug\netcoreapp2.0\SlothuBot.AssemblyInfoInputs.cache
+C:\Users\Shane\source\repos\Slothu\SlothuBot\obj\Debug\netcoreapp2.0\SlothuBot.AssemblyInfo.cs
